@@ -11500,30 +11500,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ss978823\\.nuget\\packages\\": {},
+    "C:\\Users\\jv954091\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
+      "projectUniqueName": "d:\\PRPC-API\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
       "projectName": "PRPC-CIDM4390",
-      "projectPath": "C:\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
-      "packagesPath": "C:\\Users\\ss978823\\.nuget\\packages\\",
-      "outputPath": "C:\\PRPC-CIDM4390\\obj\\",
+      "projectPath": "d:\\PRPC-API\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
+      "packagesPath": "C:\\Users\\jv954091\\.nuget\\packages\\",
+      "outputPath": "d:\\PRPC-API\\PRPC-CIDM4390\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ss978823\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\jv954091\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
