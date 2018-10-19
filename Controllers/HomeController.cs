@@ -41,3 +41,34 @@ namespace PRPC_CIDM4390.Controllers
         }
     }
 }
+
+
+/*
+
+This is the sample C# from Twilio
+
+using Twilio;
+using Twilio.Rest.Api.V2010.Account;
+
+
+class Program 
+{
+    static void Main(string[] args)
+    {
+        // Find your Account Sid and Token at twilio.com/console
+        const string accountSid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+        const string authToken = "your_auth_token";
+
+        TwilioClient.Init(accountSid, authToken);
+
+        var message = MessageResource.Create(
+            body: "Join Earth's mightiest heroes. Like Kevin Bacon.",
+            from: new Twilio.Types.PhoneNumber("+15017122661"),
+            to: new Twilio.Types.PhoneNumber("+15558675310")
+        );
+
+        Console.WriteLine(message.Sid);
+    }
+}
+
+ */
