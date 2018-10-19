@@ -9,6 +9,7 @@ namespace PRPC_CIDM4390.Models
         [Required]
         [Display(Name="User Name")]
         public string userName { get; set; }
+        public string password {get; set;}
         
     }
 }

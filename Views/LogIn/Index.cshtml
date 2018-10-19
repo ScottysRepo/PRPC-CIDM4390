@@ -4,20 +4,18 @@
     ViewData["Title"] = "Index";
 }
 
-<h2>LogIn</h2>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class = "table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.userName)
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-   
-    </tbody>
-</table>
+<div class="loginbox">
+    <h1>Login</h1>
+    <form>
+        <p>Username</p>
+        <input type="text" name ="" placeholder="Enter Username">
+        <p>Password</p>
+        <input type ="text" name = "" placeholder = "Enter Password">
+        <input type="submit" name ="" value="Login"> <br>
+        
+        <a href="Create">Forgot Password</a><br>
+    </form>
+    <!-- Forgot Password anchor is wrong-->
+</div>
+<a asp-action="Create">Register Here</a>

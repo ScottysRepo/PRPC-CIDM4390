@@ -15,7 +15,19 @@ namespace PRPC_CIDM4390.Controllers
             return View();
         }
 
-        
+        public IActionResult Create()
+        {
+            ViewData["Message"] = "Register Here";
+
+            return View();
+        }
+
+        public IActionResult Delete()
+        {
+            ViewData["Message"] = "Your contact page.";
+
+            return View();
+        }
 
        
 
