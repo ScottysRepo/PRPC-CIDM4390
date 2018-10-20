@@ -56,7 +56,7 @@ namespace PRPC_CIDM4390
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Registration}/{action=Index}/{id?}");
             });
         }
     }
