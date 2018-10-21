@@ -14,13 +14,13 @@ namespace PRPC_CIDM4390.Models
         [StringLength(255, MinimumLength = 8)]
         [Required()]
         
-        public string Password { get; set;}
+        public string password { get; set;}
         [Compare("Password")]
         [DataType(DataType.Password)]
         [StringLength(255, MinimumLength = 8)]
         [Required()]
     
-        public string ConfirmPassword {get; set;}
+        public string confirmpassword {get; set;}
 
 
         public string firstname {get; set;}
@@ -36,7 +36,7 @@ namespace PRPC_CIDM4390.Models
         [DataType(DataType.PhoneNumber)]
         [RegularExpression("^[0-9]{8}$")]
         [StringLength(32)]
-        public string PhoneNumber {get; set;}
+        public string phonenumber {get; set;}
 
         
     }
