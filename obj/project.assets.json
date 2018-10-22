@@ -11500,23 +11500,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hchoi\\.nuget\\packages\\": {},
+    "C:\\Users\\colte\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\hchoi\\Desktop\\PRPC\\PRPC-CIDM4390-Registration\\PRPC-CIDM4390-Registration\\PRPC-CIDM4390.csproj",
+      "projectUniqueName": "c:\\Users\\colte\\OneDrive - wtamu.edu\\Personal\\Fall 2018 Classes\\CIDM\\PRPC\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
       "projectName": "PRPC-CIDM4390",
-      "projectPath": "c:\\Users\\hchoi\\Desktop\\PRPC\\PRPC-CIDM4390-Registration\\PRPC-CIDM4390-Registration\\PRPC-CIDM4390.csproj",
-      "packagesPath": "C:\\Users\\hchoi\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\hchoi\\Desktop\\PRPC\\PRPC-CIDM4390-Registration\\PRPC-CIDM4390-Registration\\obj\\",
+      "projectPath": "c:\\Users\\colte\\OneDrive - wtamu.edu\\Personal\\Fall 2018 Classes\\CIDM\\PRPC\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
+      "packagesPath": "C:\\Users\\colte\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\colte\\OneDrive - wtamu.edu\\Personal\\Fall 2018 Classes\\CIDM\\PRPC\\PRPC-CIDM4390\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\hchoi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\colte\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
