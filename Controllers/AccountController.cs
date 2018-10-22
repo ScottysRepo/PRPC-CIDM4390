@@ -29,6 +29,10 @@ namespace PRPC_CIDM4390.Controllers
         return ConfigurationManager.ConnectionStrings[connection].ConnectionString;
     }
     
+    public static async Task<string> EmailTemplate(string template)
+    {
+        var templateFilePath = HostingEnvironment.MapPath("")
+    }
     //Method to check username or email in our database
     // and return a string
     public static string ReturnString (string str)
@@ -61,6 +65,9 @@ namespace PRPC_CIDM4390.Controllers
             }
         }
     }
+
+        //Methods that user either email or username to check if a user 
+        //is in the database. 
         public static string FindEmail(string email)
         {
             command = "SELECT Email AS Email FROM ApplicationUser WHERE Email = @Email";
@@ -84,6 +91,50 @@ namespace PRPC_CIDM4390.Controllers
             using (SqlCommand cmd = new SqlCommand(command,myConnection))
             {
                 cmd.Parameters.AddWithValue (parameterName, str);
+                myConnection.Open();
+                using (SqlDataReader reader = cmd.ExecuteReader())
+                {
+                    if (reader.HasRows)
+                    {
+                        if (reader.Read())
+                        {
+                            res = reader["EmailConfirmed"].ToString();
+                            if (res == "False")
+                            {
+                                econfOut = false;
+                            }
+                            else 
+                            {
+                                econfOut = true;
+                            }
+                        }
+                        myConnection.Close();
+                    }
+                    return econfOut;
+                }
+            }
+        }
+        //Methods that confrim email by either username and user id 
+        public bool EmailConfirmation (string username)
+        {
+            command= "SELECT EmailConfirmed as EmailConfirmed from ApplicationUser where UserName =@UserName";
+            parameterName = "@UserName";
+            return ReturnBool(username);
+        }
+        public bool EmailConfirmationbyId (string userid)
+        {
+            command= "SELECT EmailConfirmed as EmailConfirmed from ApplicationUser where Id =@Id";
+            parameterName = "@UserName";
+            return ReturnBool(userid);
+        }
+        public static int UpdateDatabase (string username)
+        {
+            using (SqlConnection myConnection = new SqlConnection (connection))
+            using (SqlCommand cmd = new SqlCommand(command, myConnection))
+            {
+                cmd.Parameters.AddWithValue(parameterName, username);
+                myConnection.Open();
+                return cmd.ExecuteNonQuery();
             }
         }
     }
