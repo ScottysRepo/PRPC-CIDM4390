@@ -1,24 +1,33 @@
+using System;
+using System.Threading.Tasks;
+using Twilio;
+using Twilio.Rest.Api.V2010.Account;
 
 
-// Code sample for ASP.NET MVC on .NET Framework 4.6.1+
-// In Package Manager, run:
-// Install-Package Twilio.AspNet.Mvc -DependencyVersion HighestMinor
-
-using Twilio.AspNet.Common;
-using Twilio.AspNet.Mvc;
-using Twilio.TwiML;
-
-namespace WebApplication1.Controllers
+class Program
 {
-    public class SmsController : TwilioController
+    static void Main(string[] args)
     {
-        public TwiMLResult Index(SmsRequest incomingMessage)
-        {
-            var messagingResponse = new MessagingResponse();
-            messagingResponse.Message("The copy cat says: " +
-                                      incomingMessage.Body);
+        //Model.PhoneNumber for client that needs SMS
+        SendSms().Wait();
+        Console.Write("Press any key to continue.");
+        Console.ReadKey();
+    }
 
-            return TwiML(messagingResponse);
-        }
+    static async Task SendSms(string RecPhone)
+    {
+        // Find your Account Sid and Token at twilio.com/console
+        const string accountSid = process.env.TWILIO_ACCT_SID;
+        const string authToken = process.env.TWILIO_AUTHTOKEN;
+
+        TwilioClient.Init(accountSid, authToken);
+
+        var message = await MessageResource.CreateAsync(
+            body: "Would you like to recieve text notifications? Please reply Yes or No.",
+            from: new Twilio.Types.PhoneNumber("+18064244476"),
+            to: new Twilio.Types.PhoneNumber(RecPhone)
+        );
+
+        Console.WriteLine(message.Sid);
     }
 }
