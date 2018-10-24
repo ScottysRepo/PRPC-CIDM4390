@@ -30,6 +30,11 @@ namespace PRPC_CIDM4390
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
+            // Add framework services.
+          services.AddMvc();
+
+         // services.AddDbContext<PRPC_CIDM4390DbContext>(options =>
+          //        options.UseSqlite("Data Source=MvcMovie.db"));
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);

@@ -6,12 +6,19 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using PRPC_CIDM4390.Models;
 
+
 namespace PRPC_CIDM4390.Controllers
 {
     public class LogInController : Controller
     {
         public IActionResult Index()
         {
+            // waiting for Registration info and database to add
+            //var userName = new {UserName = model.userName};
+           // string userName = "user";
+           // if(userName= "user"){
+              //  var loggingIn = true;
+           // }
             return View();
         }
 
