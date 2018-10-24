@@ -16,9 +16,9 @@ class Program
 
     static async Task SendSms(string RecPhone)
     {
-        // Find your Account Sid and Token at twilio.com/console
-        const string accountSid = process.env.TWILIO_ACCT_SID;
-        const string authToken = process.env.TWILIO_AUTHTOKEN;
+        // Need to figure out how to call those .env variables.
+        const string accountSid = Environment.GetEnvironmentVariable(TWILIO_ACCT_SID);
+        const string authToken = Environment.GetEnvironmentVariable(TWILIO_AUTHTOKEN);
 
         TwilioClient.Init(accountSid, authToken);
 

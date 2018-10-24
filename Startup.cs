@@ -9,6 +9,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using dotenv.net;
+using dotenv.net.DependencyInjection.Extensions;
+using System.Text;
 
 namespace PRPC_CIDM4390
 {
@@ -29,6 +32,14 @@ namespace PRPC_CIDM4390
                 // This lambda determines whether user consent for non-essential cookies is needed for a given request.
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
+            });
+            // configure dotenv
+            services.AddEnv(builder => {
+                builder
+                //Is this the right path?
+                .AddEnvFile("D:/PRPC-API/PRPC-CIDM4390/.env")
+                .AddThrowOnError(false)
+                .AddEncoding(Encoding.ASCII);
             });
 
 

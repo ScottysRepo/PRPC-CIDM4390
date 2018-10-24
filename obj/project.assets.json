@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
+      "dotenv.net/1.0.4": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/dotenv.net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/dotenv.net.dll": {}
+        }
+      },
       "Libuv/1.10.0": {
         "type": "package",
         "dependencies": {
@@ -5636,6 +5648,17 @@
     }
   },
   "libraries": {
+    "dotenv.net/1.0.4": {
+      "sha512": "bUV/2XXe4LxlrIxIdge5h8dwmrKhRTh27S+jXH5ZshsAKoDyzdEs9nqVYdDdlmr+f8dBDY7fKRSBhC+RQSjgRA==",
+      "type": "package",
+      "path": "dotenv.net/1.0.4",
+      "files": [
+        ".signature.p7s",
+        "dotenv.net.1.0.4.nupkg.sha512",
+        "dotenv.net.nuspec",
+        "lib/netstandard2.0/dotenv.net.dll"
+      ]
+    },
     "Libuv/1.10.0": {
       "sha512": "GsCf4q+eyaI49rCPlgYxdxa1SQCysXFFdSJWdstrwxytg4+VPYLYrXD4AT2rjHVJ+UF7SSWX9CapWEYaU4ejVQ==",
       "type": "package",
@@ -14463,7 +14486,8 @@
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.4",
       "Twilio >= 5.20.1",
-      "Twilio.AspNet.Mvc >= 5.9.7"
+      "Twilio.AspNet.Mvc >= 5.9.7",
+      "dotenv.net >= 1.0.4"
     ]
   },
   "packageFolders": {
@@ -14473,11 +14497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRPC-API\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
+      "projectUniqueName": "d:\\PRPC-API\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
       "projectName": "PRPC-CIDM4390",
-      "projectPath": "D:\\PRPC-API\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
+      "projectPath": "d:\\PRPC-API\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
       "packagesPath": "C:\\Users\\jv954091\\.nuget\\packages\\",
-      "outputPath": "D:\\PRPC-API\\PRPC-CIDM4390\\obj\\",
+      "outputPath": "d:\\PRPC-API\\PRPC-CIDM4390\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14527,6 +14551,10 @@
           "Twilio.AspNet.Mvc": {
             "target": "Package",
             "version": "[5.9.7, )"
+          },
+          "dotenv.net": {
+            "target": "Package",
+            "version": "[1.0.4, )"
           }
         },
         "imports": [
