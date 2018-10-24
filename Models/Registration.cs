@@ -27,8 +27,7 @@ namespace PRPC_CIDM4390.Models
 
         public string lastname {get; set;}
 
-        public string birthday {get; set;}
-
+        
         [DataType(DataType.EmailAddress)]
         [StringLength(128)]
         [Required()]
