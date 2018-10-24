@@ -11,8 +11,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        //Model.PhoneNumber for client that needs SMS
-        SendSms(Model.PhoneNumber).Wait();
+        //RecPhone is placeholder for the Model.Phone we will need to send to each phone that is registered
+        SendSms(RecPhone).Wait();
         Console.Write("Press any key to continue.");
         Console.ReadKey();
     }
