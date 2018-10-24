@@ -2,6 +2,9 @@ using System;
 using System.Threading.Tasks;
 using Twilio;
 using Twilio.Rest.Api.V2010.Account;
+using dotenv;
+
+//Will need to use some kind of model here
 
 
 class Program
@@ -9,7 +12,7 @@ class Program
     static void Main(string[] args)
     {
         //Model.PhoneNumber for client that needs SMS
-        SendSms().Wait();
+        SendSms(Model.PhoneNumber).Wait();
         Console.Write("Press any key to continue.");
         Console.ReadKey();
     }
@@ -17,7 +20,7 @@ class Program
     static async Task SendSms(string RecPhone)
     {
         // Need to figure out how to call those .env variables.
-        const string accountSid = Environment.GetEnvironmentVariable(TWILIO_ACCT_SID);
+        const string accountSid = Environment.GetEnvironmentVariable(TWILIO_SID);
         const string authToken = Environment.GetEnvironmentVariable(TWILIO_AUTHTOKEN);
 
         TwilioClient.Init(accountSid, authToken);
