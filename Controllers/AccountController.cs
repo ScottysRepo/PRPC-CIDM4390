@@ -11,8 +11,9 @@ using Microsoft.IdentityModel.Protocols;
 
 namespace PRPC_CIDM4390.Controllers
 {
-    [Authorize]
-    public class AccountController : Controller
+    public class RegisterContoller : Controller
+}  
+/*     public class AccountController : Controller
     {
        public static string  EconfUser {get; set;}
        public static string  connection = GetConnectionString("DefaultConnection"); 
@@ -140,7 +141,7 @@ namespace PRPC_CIDM4390.Controllers
     }
 }
 
- /*    [HttpPost]
+     [HttpPost]
     [AllowAnonymous]
     [ValidateAntiForgeryToken]
     public async Task<ActionResult> Register(Registration model)
