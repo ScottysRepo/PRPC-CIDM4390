@@ -14473,11 +14473,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\PRPC-API\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
+      "projectUniqueName": "D:\\PRPC-API\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
       "projectName": "PRPC-CIDM4390",
-      "projectPath": "d:\\PRPC-API\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
+      "projectPath": "D:\\PRPC-API\\PRPC-CIDM4390\\PRPC-CIDM4390.csproj",
       "packagesPath": "C:\\Users\\jv954091\\.nuget\\packages\\",
-      "outputPath": "d:\\PRPC-API\\PRPC-CIDM4390\\obj\\",
+      "outputPath": "D:\\PRPC-API\\PRPC-CIDM4390\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
