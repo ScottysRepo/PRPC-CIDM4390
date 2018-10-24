@@ -21,6 +21,8 @@ namespace PRPC_CIDM4390
 
         public IConfiguration Configuration { get; }
 
+        // This method allows SendGrid API to pull from appsettings.json
+
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
@@ -30,6 +32,10 @@ namespace PRPC_CIDM4390
                 options.CheckConsentNeeded = context => true;
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
+            
+            // This method allows SendGrid API to pull from appsettings.json
+            services.AddMvc();
+            services.AddSingleton<IConfiguration>(Configuration);
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
