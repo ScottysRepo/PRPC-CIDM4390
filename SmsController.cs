@@ -9,7 +9,8 @@ using dotenv;
 
 class Program
 {
-    static void Main(string[] args)
+    string RecPhone = "8065498221";
+    void Main(string[] args)
     {
         //RecPhone is placeholder for the Model.Phone we will need to send to each phone that is registered
         SendSms(RecPhone).Wait();
@@ -17,7 +18,7 @@ class Program
         Console.ReadKey();
     }
 
-    static async Task SendSms(string RecPhone)
+    async Task SendSms(string RecPhone)
     {
         // Need to figure out how to call those .env variables.
         const string accountSid = Environment.GetEnvironmentVariable(TWILIO_SID);
