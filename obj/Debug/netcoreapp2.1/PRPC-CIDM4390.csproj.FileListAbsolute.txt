@@ -1,74 +1,99 @@
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.deps.json
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.runtimeconfig.json
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.runtimeconfig.dev.json
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.dll
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.pdb
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.dll
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.pdb
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csprojAssemblyReference.cache
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csproj.CoreCompileInputs.cache
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorAssemblyInfo.cache
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorAssemblyInfo.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.AssemblyInfoInputs.cache
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.AssemblyInfo.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.TagHelpers.input.cache
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.TagHelpers.output.cache
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorCoreGenerate.cache
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorTargetAssemblyInfo.cache
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorTargetAssemblyInfo.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.pdb
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.dll
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.pdb
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csproj.CopyComplete
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\Index.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\Delete.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\Create.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\Details.g.cshtml.cs
-C:\Users\Rebecca Vengen\PRPC-CIDM4390\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\Edit.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.deps.json
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.runtimeconfig.json
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.runtimeconfig.dev.json
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.dll
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.pdb
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.dll
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.pdb
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csprojAssemblyReference.cache
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csproj.CoreCompileInputs.cache
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorAssemblyInfo.cache
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorAssemblyInfo.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.AssemblyInfoInputs.cache
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.AssemblyInfo.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.TagHelpers.input.cache
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.TagHelpers.output.cache
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorCoreGenerate.cache
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\Create.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\Delete.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\Details.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\Edit.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\LogIn\Index.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorTargetAssemblyInfo.cache
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorTargetAssemblyInfo.cs
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.pdb
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.dll
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.pdb
-C:\Users\hchoi\Downloads\PRPC-CIDM4390-LogIn (1)\PRPC-CIDM4390-LogIn\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csproj.CopyComplete
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.deps.json
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.runtimeconfig.json
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.runtimeconfig.dev.json
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.dll
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.pdb
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.dll
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.pdb
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csprojAssemblyReference.cache
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csproj.CoreCompileInputs.cache
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorAssemblyInfo.cache
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorAssemblyInfo.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.AssemblyInfoInputs.cache
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.AssemblyInfo.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.TagHelpers.input.cache
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.TagHelpers.output.cache
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorCoreGenerate.cache
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorTargetAssemblyInfo.cache
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorTargetAssemblyInfo.cs
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.pdb
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.dll
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.pdb
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csproj.CopyComplete
+C:\Users\hchoi\Desktop\PRPC\PRPC-CIDM4390-Registration\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Registration\Index.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.deps.json
+C:\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.runtimeconfig.json
+C:\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.runtimeconfig.dev.json
+C:\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.dll
+C:\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.pdb
+C:\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.dll
+C:\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.pdb
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csprojAssemblyReference.cache
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csproj.CoreCompileInputs.cache
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorAssemblyInfo.cache
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorAssemblyInfo.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.AssemblyInfoInputs.cache
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.AssemblyInfo.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.TagHelpers.input.cache
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.TagHelpers.output.cache
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorCoreGenerate.cache
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Registration\Index.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorTargetAssemblyInfo.cache
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorTargetAssemblyInfo.cs
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.pdb
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.dll
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.pdb
+C:\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csproj.CopyComplete
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.deps.json
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.runtimeconfig.json
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.runtimeconfig.dev.json
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.dll
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.pdb
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.dll
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\bin\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.pdb
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csprojAssemblyReference.cache
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csproj.CoreCompileInputs.cache
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorAssemblyInfo.cache
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorAssemblyInfo.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.AssemblyInfoInputs.cache
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.AssemblyInfo.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.TagHelpers.input.cache
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.TagHelpers.output.cache
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorCoreGenerate.cache
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Registration\Index.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorTargetAssemblyInfo.cache
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.RazorTargetAssemblyInfo.cs
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.Views.pdb
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.dll
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.pdb
+C:\Users\hchoi\Desktop\PRPC PROJECT\PRPC-CIDM4390-Registration\obj\Debug\netcoreapp2.1\PRPC-CIDM4390.csproj.CopyComplete
